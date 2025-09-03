@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main(){
+
+int element[]={};
+printf("vous vueler entercomme bien des element ");
+scanf("%d", element[]);
+
+
+
+    return 0 ;
+}
